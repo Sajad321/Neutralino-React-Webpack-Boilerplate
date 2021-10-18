@@ -6,6 +6,8 @@ Quick Boilerplate to start Webpack React Neutralinojs App
 Run the react app in the browser first by 
 
 ```
+ $ npm install
+ 
  $ npm start
 ```
 Then check if Neutralino.js is being imported correctly
